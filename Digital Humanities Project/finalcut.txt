@@ -1,0 +1,26 @@
+
+# all the texts final numbers, text 1 and 2 are averages of all their texts within their own textfiles
+
+Text 0:
+
+total type-token ratio: 0.681
+total sentence length: 42.333
+total average number of punctuation in a sentence: 8.333
+total nouns-verbs-adjective-adverb ratio: [0.327, 0.146, 0.13, 0.055]
+
+Text1:
+
+total type-token ratio: 0.5984
+total sentence length: 37.638
+total average number of punctuation in a sentence: 9.178
+total nouns-verbs-adjective-adverb ratio: [0.372, 0.143, 0.117, 0.060]
+
+
+Text2:
+
+toal type-token ratio: 0.658
+total sentence length: 31.102
+total average number of punctuation in a sentence: 6.471
+total nouns-verbs-adjective-adverb ratio: [0.381,0.139,0.102, 0.057]
+
+	
